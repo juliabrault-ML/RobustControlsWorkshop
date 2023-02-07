@@ -15,7 +15,7 @@ Each of the sections can be complemented by an additional in-depth exercise foun
 2. Create a mathworks.com account or sign into an existing one.
 3. Click "Access MATLAB Online"
 4. Once you're at matlab.mathworks.com, replace that URL with this one: https://matlab.mathworks.com/open/github/v1?repo=juliaantoniou-ML/RobustControlsWorkshop&project=RobustControlsWorkshop.prj 
-This will automatically clone this repository into your MATLAB Drive.
+(this will automatically clone this repository into your MATLAB Drive)
 5. In the pop-up in MATLAB Online, select the checkbox and choose "Save and Open".
 
 You can also run this workshop in desktop MATLAB if you have R2022b installed with these toolboxes:
