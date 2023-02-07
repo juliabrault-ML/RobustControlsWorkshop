@@ -10,7 +10,7 @@ Each of the sections can be complemented by an additional in-depth exercise foun
 2. Exercise 2: MIMO Stability Margins for a Spinning Satellite
 3. Exercise 3: Robust Controller Design for a Spinning Satellite
 
-####  Set-up instructions for AAS GN&C
+###  Set-up instructions for AAS GN&C
 1. Get to MATLAB Online: https://www.mathworks.com/licensecenter/classroom/3947250/ 
 2. Create a mathworks.com account or sign into an existing one.
 3. Click "Access MATLAB Online"
